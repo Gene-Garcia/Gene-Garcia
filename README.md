@@ -1,7 +1,7 @@
 Hi 👋 My name is Gene Garica
 ============================
 
-Student, aspring Full-Stack Web Developer
+Student, aspiring Full-Stack Web Developer
 -----------------------------------------
 
 * 🌍  I'm based in Philippines
