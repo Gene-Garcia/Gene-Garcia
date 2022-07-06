@@ -4,7 +4,7 @@ Hi 👋 My name is Gene Garica
 Student, aspiring Full-Stack Web Developer
 -----------------------------------------
 
-* 🌍  I'm based in Philippines
+* 🌍  I'm based in the Philippines
 * 🖥️  See my portfolio at [genegarcia.me](http://genegarcia.me)
 * ✉️  You can contact me at [genejogarcia.gg@gmail.com](mailto:genejogarcia.gg@gmail.com)
 * 🚀  I'm currently working on [COMERCE](http://co-merce.netlify.app/)
