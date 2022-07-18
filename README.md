@@ -8,7 +8,7 @@ Student, aspiring Full-Stack Web Developer
 * 🖥️  See my portfolio at [genegarcia.me](http://genegarcia.me)
 * ✉️  You can contact me at [genejogarcia.gg@gmail.com](mailto:genejogarcia.gg@gmail.com)
 * 🚀  I'm currently working on [COMERCE](http://co-merce.netlify.app/)
-* 🧠  I'm learning Full Stack Web Development with MERN Stack
+* 🧠  I'm learning Full Stack Web Development with MERN Stack and Web 3
 
 ### Skills
 
