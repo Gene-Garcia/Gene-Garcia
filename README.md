@@ -1,49 +1,105 @@
-Hi 👋 My name is Gene Garica
-============================
+<div style="border: 1px solid lightgray; border-radius: 25px;"></div>
 
-Student, aspiring Full-Stack Web Developer
------------------------------------------
+<div style="display: flex; margin-bottom: 25px">
+<div style="width: 60%; display: flex; flex-direction: column; justify-content: center; ">
+<h1 style="font-size: 68px; margin:0; padding:0; border: none;">Hey there,</h1>
+<h1 style="font-size: 68px; margin:0; padding:0; color:#2196F3; border: none;">I am Gene!</h1>
 
-* 🌍  I'm based in the Philippines
-* 🖥️  See my portfolio at [genegarcia.me](http://genegarcia.me)
-* ✉️  You can contact me at [genejogarcia.gg@gmail.com](mailto:genejogarcia.gg@gmail.com)
-* 🚀  I'm currently working on [COMERCE](http://co-merce.netlify.app/)
-* 🧠  I'm learning Full Stack Web Development with MERN Stack and Web 3
+<div style="display: flex; align-items: center; gap: 10px;">
+<a href="https://genegarcia.me" target="_blank" style="background-color: #2196F3; color: white; font-weight: 700; padding: 7px 25px 7px 25px; font-size: 16px; border-radius: 20px">Portfolio</a>
+<a href="mailto:genejogarcia.gg@gmail.com?subject=I would like to connect with you!" target="_blank" style="border: 1.5px solid #2196F3; font-weight: 700; padding: 7px 25px 7px 25px; font-size: 16px; border-radius: 20px">Send Email</a>
+</div>
+<div style="display: flex; gap: 15px">
+<a href="https://www.linkedin.com/in/gene-joseph-garcia-633324171/" style="" target="_blank">
+<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>
+</a>
+<a href="https://www.instagram.com/genegarciaa/?hl=en" style="" target="_blank">
+<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/157806/instagram.svg"/>
+</a>
+<a href="https://twitter.com/gene_garciaaa" style="" target="_blank">
+<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/49959/twitter.svg"/>
+</a>
+<a href="mailto:genegarcia.gg@yahoo.com?subject=I would like to connect with you!" style="" target="_blank">
+<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/35004/yahoo.svg"/>
+</a>
+<a href="mailto:genejogarcia.gg@gmail.com?subject=I would like to connect with you!" style="" target="_blank">
+<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/353812/google-gmail.svg"/>
+</a>
+</div>
+</div>
 
-### Skills
+<div style="width: 40%; display: flex;">
+<img src="https://drive.google.com/uc?id=12FuZcPq70h_jY4x8lyM32htsJK60BhyN" style="width: auto; height: auto; margin: auto;" />
+</div>
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<div style="display: flex;">
+<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; text-align: center; margin-right: 12.5px">
+<h2 style="font-weight: 600; border: none; margin-top: 12px; opacity: 90%">Work In Progress</h2>
+<a href="https://co-merce.netlify.app/" target="_blank"><img style="width: 80%;" src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" /></a>
+</div>
 
+<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; text-align: center; margin-left: 12.5px">
+<h2 style="font-weight: 600; border: none; margin-top: 12px; opacity: 90%">Learning Progress</h2>
+<img style="width: 20%; margin-bottom: 12px;"  src="https://compile.blog/wp-content/uploads/2021/11/Web3-Icon-3.png"/>
+</div>
+</div>
 
-### Socials
+<h2 style="padding-top: 25px;  border: none; text-align: center; opacity: 90%">Technology Stack</h2>
 
-<p align="left"> <a href="https://discord.com/users/g.#9316" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gene.garciaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/gene-garcia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/genegarciaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gene-joseph-garcia-633324171/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gene_garciaaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div style="border: 1px solid #DDDDDD; border-radius: 10px; margin-bottom: 25px">
+<h3 style="text-align: center; margin-top: -4px; font-weight: 500;">Programming Languages</h3>
+<div style="display: flex; gap: 10px; justify-content: center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</div>
+</div>
 
-### Badges
+<div style="display: flex; justify-content: space-between; margin-bottom: 25px">
+<div style="width: 70%; border: 1px solid #DDDDDD; border-radius: 10px; margin-right: 12.5px">
+<h3 style="text-align: center; margin-top: 6px; font-weight: 500;">Web Technologies</h3>
+<div style="display: flex; gap: 10px; justify-content: center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+</div>
+</div>
 
-<b>My GitHub Stats</b>
+<div style="width: 30%; border: 1px solid #DDDDDD; border-radius: 10px; margin-left: 12.5px">
+<h3 style="text-align: center; margin-top: 6px; font-weight: 500;">Mobile Technologies</h3>
+<div style="display: flex; gap: 10px; justify-content: center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+</div>
+</div>
+</div>
 
-<a href="http://www.github.com/gene-garcia"><img src="https://github-readme-stats.vercel.app/api?username=gene-garcia&show_icons=true&hide=stars,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=312e81&hide_border=true&show_icons=true" alt="gene-garcia's GitHub stats" /></a>
+<div style="display: flex; justify-content: space-between">
+<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; margin-right: 12.5px">
+<h3 style="text-align: center; margin-top: 0px; font-weight: 500;">Database</h3>
+<div style="display: flex; gap: 10px; justify-content: center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</div>
+</div>
 
-<a href="http://www.github.com/gene-garcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gene-garcia&stroke=ffffff&background=312e81&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; margin-left: 12.5px">
+<h3 style="text-align: center; margin-top: 0px; font-weight: 500;">Design</h3>
+<div style="display: flex; gap: 10px; justify-content: center">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</div>
+</div>
 
-<a href="https://github.com/gene-garcia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gene-garcia&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
