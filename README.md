@@ -35,7 +35,9 @@
 <h3>Ongoing project</h3><br />
 
 <div align="center">
+<a href="https://co-merce.netlify.app">
 <img src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" align="center" height="" width="" />
+</a>
 </div><br />
 </td>
 
