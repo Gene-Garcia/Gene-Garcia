@@ -1,105 +1,114 @@
-<div style="border: 1px solid lightgray; border-radius: 25px;"></div>
+<div align="center">
+<img src="https://drive.google.com/uc?id=12FuZcPq70h_jY4x8lyM32htsJK60BhyN" align="center" style="width: 100%" />
+</div>  
+  
 
-<div style="display: flex; margin-bottom: 25px">
-<div style="width: 60%; display: flex; flex-direction: column; justify-content: center; ">
-<h1 style="font-size: 68px; margin:0; padding:0; border: none;">Hey there,</h1>
-<h1 style="font-size: 68px; margin:0; padding:0; color:#2196F3; border: none;">I am Gene!</h1>
+<br/>  
 
-<div style="display: flex; align-items: center; gap: 10px;">
-<a href="https://genegarcia.me" target="_blank" style="background-color: #2196F3; color: white; font-weight: 700; padding: 7px 25px 7px 25px; font-size: 16px; border-radius: 20px">Portfolio</a>
-<a href="mailto:genejogarcia.gg@gmail.com?subject=I would like to connect with you!" target="_blank" style="border: 1.5px solid #2196F3; font-weight: 700; padding: 7px 25px 7px 25px; font-size: 16px; border-radius: 20px">Send Email</a>
-</div>
-<div style="display: flex; gap: 15px">
-<a href="https://www.linkedin.com/in/gene-joseph-garcia-633324171/" style="" target="_blank">
-<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/138936/linkedin.svg"/>
+<div align="center">
+<a href="https://twitter.com/gene_garciaaa" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/genegarciaa/?hl=en" style="" target="_blank">
-<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/157806/instagram.svg"/>
+<a href="https://linkedin.com/in/gene-joseph-garcia-633324171" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/gene_garciaaa" style="" target="_blank">
-<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/49959/twitter.svg"/>
+<a href="https://www.facebook.com/gene.garciaaa" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:genegarcia.gg@yahoo.com?subject=I would like to connect with you!" style="" target="_blank">
-<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/35004/yahoo.svg"/>
+<a href="https://instagram.com/genegarciaa" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:genejogarcia.gg@gmail.com?subject=I would like to connect with you!" style="" target="_blank">
-<img style="width:30px; filter: grayscale(100%);" src="https://www.svgrepo.com/show/353812/google-gmail.svg"/>
-</a>
-</div>
+<a href="https://stackoverflow.com/users/7811942/gene-garcia" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Work In Progress  
+
+
+### Ongoing Project  
+<div align="center">
+<img src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" align="center" height="" width="" />
+</div>  
+  
+
+
+
+### Learning Progress  
+# **<div align="center">MERN Stack & Web 3</div>**  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 </div>
 
-<div style="width: 40%; display: flex;">
-<img src="https://drive.google.com/uc?id=12FuZcPq70h_jY4x8lyM32htsJK60BhyN" style="width: auto; height: auto; margin: auto;" />
-</div>
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
 
-<div style="display: flex;">
-<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; text-align: center; margin-right: 12.5px">
-<h2 style="font-weight: 600; border: none; margin-top: 12px; opacity: 90%">Work In Progress</h2>
-<a href="https://co-merce.netlify.app/" target="_blank"><img style="width: 80%;" src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" /></a>
+</td><td valign="top" width="33%">
+
+
+
+### Database  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+</div>  
+
+
+
+### Software  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; text-align: center; margin-left: 12.5px">
-<h2 style="font-weight: 600; border: none; margin-top: 12px; opacity: 90%">Learning Progress</h2>
-<img style="width: 20%; margin-bottom: 12px;"  src="https://compile.blog/wp-content/uploads/2021/11/Web3-Icon-3.png"/>
-</div>
-</div>
+</td></tr></table>  
 
-<h2 style="padding-top: 25px;  border: none; text-align: center; opacity: 90%">Technology Stack</h2>
+<br/>  
 
-<div style="border: 1px solid #DDDDDD; border-radius: 10px; margin-bottom: 25px">
-<h3 style="text-align: center; margin-top: -4px; font-weight: 500;">Programming Languages</h3>
-<div style="display: flex; gap: 10px; justify-content: center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</div>
-</div>
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 25px">
-<div style="width: 70%; border: 1px solid #DDDDDD; border-radius: 10px; margin-right: 12.5px">
-<h3 style="text-align: center; margin-top: 6px; font-weight: 500;">Web Technologies</h3>
-<div style="display: flex; gap: 10px; justify-content: center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</div>
-</div>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gene-garcia&hide_border=true&layout=compact" align="center" /></div>  
 
-<div style="width: 30%; border: 1px solid #DDDDDD; border-radius: 10px; margin-left: 12.5px">
-<h3 style="text-align: center; margin-top: 6px; font-weight: 500;">Mobile Technologies</h3>
-<div style="display: flex; gap: 10px; justify-content: center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</div>
-</div>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gene-garcia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div style="display: flex; justify-content: space-between">
-<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; margin-right: 12.5px">
-<h3 style="text-align: center; margin-top: 0px; font-weight: 500;">Database</h3>
-<div style="display: flex; gap: 10px; justify-content: center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</div>
-</div>
+<br/>  
 
-<div style="width: 50%; border: 1px solid #DDDDDD; border-radius: 10px; margin-left: 12.5px">
-<h3 style="text-align: center; margin-top: 0px; font-weight: 500;">Design</h3>
-<div style="display: flex; gap: 10px; justify-content: center">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</div>
-</div>
 
-</div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
