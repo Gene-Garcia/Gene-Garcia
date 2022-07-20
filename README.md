@@ -101,9 +101,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gene-garcia&hide_border=true&layout=compact" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gene-garcia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table style="width: 100%; border: none;">
+<tr style="border: none;">
+  
+<td style="border: none;">
+<div align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gene-garcia&hide_border=true&layout=compact" align="center" /></div>  
+</td>
+<td style="border: none;">
+<div align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=gene-garcia&show_icons=true&count_private=true&hide_border=true" align="center" />
+</td>  
+  
+</tr>
+</table>
+  
+</div>  
 
 <br/>  
 
