@@ -28,21 +28,28 @@
 
 
 ## Work In Progress  
+<table align="center">
+<tr align="center">
 
+<td width="50%">
+<h3>Ongoing project</h3><br />
 
-### Ongoing Project  
 <div align="center">
 <img src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" align="center" height="" width="" />
-</div>  
-  
+</div><br />
+</td>
 
+<td width="50%">
+<h3>Learning Progress</h3><br />
 
+<h4 align="center">MERN Stack & Web 3</h4><br />
+</td>
 
-### Learning Progress  
-# **<div align="center">MERN Stack & Web 3</div>**  
-  
+</tr>
+</table>
 
 <br/>  
+
 
 
 ## My Skill Set  
@@ -101,7 +108,7 @@
 
 
 ## Github Stats  
-<table style="width: 100%; border: none;">
+<table style="width: 100%; border: none;" align="center">
 <tr style="border: none;">
   
 <td style="border: none;">
