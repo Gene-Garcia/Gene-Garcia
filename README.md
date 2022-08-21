@@ -44,7 +44,7 @@
 <td width="50%">
 <h3>Learning Progress</h3><br />
 
-<h4 align="center">MERN Stack & Web 3</h4><br />
+<h4 align="center">Data Analytics & MERN Stack</h4><br />
 </td>
 
 </tr>
