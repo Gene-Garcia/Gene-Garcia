@@ -22,37 +22,8 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
-
-## Work In Progress  
-<table align="center">
-<tr align="center">
-
-<td width="50%">
-<h3>Ongoing project</h3><br />
-
-<div align="center">
-<a href="https://co-merce.netlify.app">
-<img src="https://drive.google.com/uc?id=1GcHhoJ8AAr5N2NViu_EeEeZwjUx988dp" align="center" height="" width="" />
-</a>
-</div><br />
-</td>
-
-<td width="50%">
-<h3>Learning Progress</h3><br />
-
-<h4 align="center">Data Analytics & MERN Stack</h4><br />
-</td>
-
-</tr>
-</table>
-
-<br/>  
-
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
